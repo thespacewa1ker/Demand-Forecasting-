@@ -1,4 +1,7 @@
 # 📊 Daily Demand Forecasting using Machine Learning
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1YtOdP9cawM-rycqUCSxM30P0NU1G8kG7?usp=sharing)
+
 
 This project focuses on forecasting **daily total orders** using historical demand data and machine learning techniques. The objective is to identify key demand drivers and build an accurate forecasting model to support operational and business decision-making.
 
